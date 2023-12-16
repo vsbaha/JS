@@ -1,4 +1,8 @@
 @import url("https://rsms.me/inter/inter.css");
+*{
+    color: white;
+}
+
 :root {
     --color-light: white;
     --color-dark: #212121;
