@@ -44,3 +44,10 @@ numbers.forEach((num) => console.log(num * 2))
 var fruits2 = ['apple', 'pineapple', 'banana', 'orange', 'watermelon']
 fruits2.push('123')
 console.log(fruits2)
+
+function convertUSD(usd, ...som){
+	console.log(usd, som)
+	return som.map(i => i / usd)
+}
+
+console.log(convertUSD(89, 24354656, 89000000))
