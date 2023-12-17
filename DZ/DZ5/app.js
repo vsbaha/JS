@@ -1,6 +1,5 @@
 const numbers = [2, 3, 4, 5, 44, 44, 34, 2, 3, 4, 5, 6, 7, 7, 6, 5, 4, 3, 8, 7, 8, 7, 5, 6, 4, 5]
 
-// Используем метод .reduce() для создания нового массива с уникальными значениями
 const uniqueNumbers = numbers.reduce((acc, number) => {
 	if (!acc.includes(number)) {
 		acc.push(number)
