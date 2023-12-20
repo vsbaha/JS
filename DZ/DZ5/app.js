@@ -14,10 +14,10 @@ function getBooksWithLetterU(books) {
 	const booksWithoutU = books.filter((book) => !book.toLowerCase().includes('у'));
 
 	console.log("Книги с буквой «у»:");
-	booksWithU.forEach((book) => console.log(`=> ${book} – книга с буквой «у»`));
+	booksWithU.map((book) => console.log(`=> ${book} – книга с буквой «у»`));
 
 	console.log("Книги без буквы «у»:");
-	booksWithoutU.forEach((book) => console.log(`=> ${book}`));
+	booksWithoutU.map((book) => console.log(`=> ${book}`));
 }
 
 const books = ["Зов Ктулху", "Сто лет одиночества", "Война и мир", "Утро", "Преступление и наказание", "Гарри Поттер", "Мастер и Маргарита", "Руслан и Людмила", "Хоббит"];
