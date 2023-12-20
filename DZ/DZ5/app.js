@@ -10,16 +10,16 @@ const uniqueNumbers = numbers.reduce((acc, number) => {
 console.log(uniqueNumbers)
 
 function getBooksWithLetterU(books) {
-	const booksWithU = books.filter((book) => book.toLowerCase().includes('у'));
-	const booksWithoutU = books.filter((book) => !book.toLowerCase().includes('у'));
+	const booksWithU = books.filter((book) => book.toLowerCase().includes('у'))
+	const booksWithoutU = books.filter((book) => !book.toLowerCase().includes('у'))
 
-	console.log("Книги с буквой «у»:");
-	booksWithU.map((book) => console.log(`=> ${book} – книга с буквой «у»`));
+	console.log("Книги с буквой «у»:")
+	booksWithU.map((book) => console.log(`=> ${book} – книга с буквой «у»`))
 
-	console.log("Книги без буквы «у»:");
-	booksWithoutU.map((book) => console.log(`=> ${book}`));
+	console.log("Книги без буквы «у»:")
+	booksWithoutU.map((book) => console.log(`=> ${book}`))
 }
 
-const books = ["Зов Ктулху", "Сто лет одиночества", "Война и мир", "Утро", "Преступление и наказание", "Гарри Поттер", "Мастер и Маргарита", "Руслан и Людмила", "Хоббит"];
+const books = ["Зов Ктулху", "Сто лет одиночества", "Война и мир", "Утро", "Преступление и наказание", "Гарри Поттер", "Мастер и Маргарита", "Руслан и Людмила", "Хоббит"]
 
-getBooksWithLetterU(books);
+getBooksWithLetterU(books)
