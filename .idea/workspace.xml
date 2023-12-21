@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fd6e77a-e3d7-48d9-ac6b-34967ad1cdb9" name="Changes" comment="" />
+    <list default="true" id="5fd6e77a-e3d7-48d9-ac6b-34967ad1cdb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lessons/lesson6/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ/DZ5/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/DZ/DZ5/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/lesson6/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson6/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/lesson6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/lesson_5/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson5/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/lesson_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson5/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +22,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -25,29 +33,33 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2ZcSwdZvRuepJiEVDjSaJ0fbsFv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,6 +72,7 @@
       <workItem from="1702721634839" duration="3093000" />
       <workItem from="1702725888424" duration="1585000" />
       <workItem from="1702825535283" duration="4737000" />
+      <workItem from="1703066467474" duration="6836000" />
     </task>
     <servers />
   </component>
