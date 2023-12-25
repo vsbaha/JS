@@ -78,5 +78,5 @@ window.onkeydown = (event) => {
 //truthy and falsy - выражения
 //falsy -> 0, '', "", ``, NaN, null, undef, 7n, false
 
-var element = !!null
+var element = null
 console.log(element ? 'true':'false')
