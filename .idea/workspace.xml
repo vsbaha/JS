@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fd6e77a-e3d7-48d9-ac6b-34967ad1cdb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DZ/DZ6/prepros.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ/DZ7/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ/DZ7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ/DZ7/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson8/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson8/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +20,8 @@
       <list>
         <option value="Sass File" />
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -47,6 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/azimk/Desktop/portfolio",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -78,6 +78,11 @@
       <workItem from="1703238078646" duration="1266000" />
       <workItem from="1703330795745" duration="614000" />
       <workItem from="1703520006125" duration="351000" />
+      <workItem from="1703520377737" duration="4383000" />
+      <workItem from="1703666089520" duration="727000" />
+      <workItem from="1703670572839" duration="5948000" />
+      <workItem from="1703852276485" duration="2434000" />
+      <workItem from="1704278697111" duration="47000" />
     </task>
     <servers />
   </component>
